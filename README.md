@@ -1,5 +1,5 @@
 # DNS-Resolver
-Performs DNS lookup of a domain name into an IP address. Only resolves names to IPv4 addresses. Worked with project partner Sisi Guo.
+Performs DNS lookup of a domain name into an IP address. Only resolves names to IPv4 addresses.
 
 # Input
 
