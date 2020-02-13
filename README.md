@@ -3,13 +3,14 @@ Performs DNS lookup of a domain name into an IP address. Only resolves names to 
 
 # Input
 
-Program can be run with:
+Usage:
 
-java ‐jar DNSlookup.jar rootDNS name [‐t]
+1. `make`
+2. `java ‐jar DNSlookup.jar rootDNS name [‐t]`
 
-1. rootDNS is the IP address of the DNS server at which to start the search
-2. name is the fully qualified domain name to look up
-3. -t specifies whether program is to print a trace of all queries made
+- rootDNS is the IP address of the DNS server at which to start the search
+- name is the fully qualified domain name to look up
+- -t specifies whether program is to print a trace of all queries made
 
 # Output
 
